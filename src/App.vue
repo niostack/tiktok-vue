@@ -16,8 +16,8 @@
           </div>
           <div class="flex-none">
             <ul class="menu menu-horizontal px-1">
-              <li><a href="https://niostack.com" target="_blank">About</a></li>
-              <li><a href="https://github.com/niostack/tiktok-matrix" target="_blank">Github</a></li>
+              <li><a href="https://www.iqimai.com" target="_blank">About</a></li>
+              <!-- <li><a href="https://github.com/niostack/tiktok-matrix" target="_blank">Github</a></li> -->
               <li>
                 <details>
                   <summary>
@@ -62,7 +62,7 @@
       <ManageSettings v-if="selectedItem === 'settings'" />
       <footer class="footer footer-center p-4 bg-base-300 text-base-content">
         <aside>
-          <p>Copyright © 2024 - All right reserved by niostack.com</p>
+          <!-- <p>Copyright © 2024 - All right reserved by niostack.com</p> -->
         </aside>
       </footer>
     </div>
